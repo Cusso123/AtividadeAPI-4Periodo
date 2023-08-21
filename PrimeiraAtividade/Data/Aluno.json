@@ -1,0 +1,9 @@
+[
+  {
+    "Nome": "string",
+    "RA": "04321",
+    "Email": "string",
+    "CPF": "string",
+    "Ativo": false
+  }
+]
